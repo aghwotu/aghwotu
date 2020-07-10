@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on [how-to-processmaker](https://github.com/aghwotu/how-to-processmaker)
+- 🌱 I’m currently learning about myself
+- 👯 I’m looking to collaborate on Laravel projects
+- 🤔 I’m looking for help with motivation
+- 💬 Ask me about [ProcessMaker](https://www.processmaker.com/) and Laravel API development
+- 📫 How to reach me: [@ediri_aghwotu](https://twitter.com/ediri_aghwotu)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm shorter in real life
+
 <!--
 **aghwotu/aghwotu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
