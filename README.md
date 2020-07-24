@@ -1,5 +1,5 @@
 ### Hi there 👋. My name is Aghwotu Ovuoke. 
-##### I'm a PHP and JavaScript developer with an interest in Golang.
+##### I'm a PHP and JavaScript developer
 
 
 - 🔭 I’m currently working on (I) [how-to-processmaker](https://github.com/aghwotu/how-to-processmaker), (II) Laravel API develpment and (III) Process Automation
