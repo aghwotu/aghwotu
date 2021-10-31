@@ -3,9 +3,11 @@
 
 
 - 🔭 I’m currently working with 
-     - (i) Angular, 
-     - (ii) Vue.js and 
-     - (iii) Google Cloud
+     - (i) JavaScript
+     - (ii) TypeScript
+     - (iii) Angular, 
+     - (iv) Vue.js and 
+     - (v) Google Cloud
 - 🌱 I’m currently learning about myself
 - 👯 I’m looking to collaborate on Angular and Vue.js projects
 - 💬 Ask me about Angular, Vue.js and Hugo
@@ -20,11 +22,11 @@ non-tech subjects [Volkanoe](https://volkanoe.com/):
 
 ##### Technologies and Tools I work with
 - JavaScript
+- TypeScript
 - Angular
 - Vue.js
 - Laravel
 - Hugo (Static Site Generator - SSG)
-- ProcessMaker
 
 ##### Technologies and Tools I'm interested in
 - Golang
