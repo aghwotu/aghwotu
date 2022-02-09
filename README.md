@@ -3,15 +3,12 @@
 
 
 - 🔭 I’m currently working with 
-     - (i) JavaScript
-     - (ii) TypeScript
-     - (iii) Angular, 
-     - (iv) Vue.js and 
-     - (v) Google Cloud
+     - Angular
+     - Vue.js
 - 🌱 I’m currently learning about myself
 - 👯 I’m looking to collaborate on Angular and Vue.js projects
-- 💬 Ask me about Angular, Vue.js and Hugo
-- 📫 How to reach me: [@ediri_aghwotu](https://twitter.com/ediri_aghwotu) on Twitter || [Aghwotu Ovuoke](https://www.linkedin.com/in/aghwotu-ovuoke/) on LinkedIn
+- 💬 Ask me about Angular and Vue.js 
+- 📫 How to reach me: [@ediri_aghwotu](https://twitter.com/ediri_aghwotu) on Twitter || [Ovuoke Aghwotu](https://www.linkedin.com/in/aghwotu-ovuoke/) on LinkedIn
 - 😄 Pronouns: She/Her
 - ⚡ I write about 
 [tech](https://dev.to/ediri_aghwotu/how-to-upload-files-to-google-cloud-using-laravel-3618) and 
@@ -21,17 +18,14 @@ non-tech subjects [Volkanoe](https://volkanoe.com/):
 [LinkedIn](https://www.linkedin.com/in/aghwotu-ovuoke/) or [Gmail](aghwotuovuoke@gmail.com)
 
 ##### Technologies and Tools I work with
-- JavaScript
-- TypeScript
 - Angular
 - Vue.js
-- Laravel
-- Hugo (Static Site Generator - SSG)
 
 ##### Technologies and Tools I'm interested in
 - Golang
 - Python
-
+- Node.js
+- Rust
 
 <!--
 **aghwotu/aghwotu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
