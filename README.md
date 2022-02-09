@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently working with 
+     - Typescript
      - Angular
      - Vue.js
 - 🌱 I’m currently learning about myself
@@ -16,11 +17,11 @@ non-tech subjects [Volkanoe](https://volkanoe.com/):
 
 ##### Collaboration
 [LinkedIn](https://www.linkedin.com/in/aghwotu-ovuoke/) or [Gmail](aghwotuovuoke@gmail.com)
-
+<!--
 ##### Technologies and Tools I work with
 - Angular
 - Vue.js
-
+-->
 ##### Technologies and Tools I'm interested in
 - Golang
 - Python
