@@ -1,5 +1,5 @@
 ### Hi there 👋. My name is Ovuoke (Or-Vor-Kay) Aghwotu. 
-##### I am a Fullstack developer 
+<!-- ##### I am a Fullstack developer -->
 
 
 - 🔭 I’m currently working with 
